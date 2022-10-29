@@ -1,2 +1,2 @@
 # Hesap-Makinesi
-Videodaki hesap makinesini switch-case kullanarak yapınız.
+Hesap makinesini switch-case kullanarak yapınız.
